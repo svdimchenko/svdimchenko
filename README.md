@@ -1,61 +1,26 @@
-### Hi there 👋
+👋😄 **Introducing myself** 🌟👨‍💻
 
-📝 My name is Serhii Dimchenko. I'm professional **Big Data Engineer** 📊
+🔹 Passionate Big Data Engineer with a drive for excellence and innovation.  
+🔹 5+ years of experience in Data Platform development projects. 📊💡  
+🔹 Skilled in working with cloud providers (🌩️AWS, GCP) and bare metal (HP Ezmeral Data Fabric). 💻🌐  
+🔹 Dedicated to building robust and scalable data platforms for accurate insights. 🚀🔍  
+🔹 Enthusiastic about leveraging modern software solutions to deliver high-quality results. 🔀🛠️  
 
-👨‍💻 **Key Information** 🚀
+🔍🔢 **Professional Big Data Engineer** 🌟🚀
 
-🔹 I'm a professional Big Data Engineer with 5+ years of experience working in Data Platform development projects based
-on cloud providers (🌩️AWS, GCP) or bare metal (HP Ezmeral Data Fabric).   
+With 5+ years of experience, I specialize as a Big Data Engineer, shaping Data Platform development projects. 
+My expertise spans across cloud providers (🌩️AWS, GCP) and bare metal (HP Ezmeral Data Fabric). 
+I'm passionate about transforming data into actionable insights, driving business growth and efficiency.
 
-🔹 I love to combine modern software solutions (mostly open-source) to build robust and scalable data platforms to serve 
-businesses with accurate data insights based on high quality and low latency data. 🌟
 
-🛠️ **Tools & Skills** 🧰
+🔀🛠️**Combining Modern Software Solutions** 💡🔗
 
-🔹 **Workflow orchestration**: Apache Airflow  
-🔹 **Data integration**: Kafka Connect, Airbyte, Snowplow  
-🔹 **Transformation**: dbt, Python, Spark  
-🔹 **Semantic layer**: cube-js, dbt-metrics, metricflow  
-🔹 **Data visualization**: Apache Superset, Tableau, Metabase, Grafana, Kibana, Power BI, QlikView, Google Data Studio, Zoho Analytic, ...  
-🔹 **Metadata layer**: datahub  
-🔹 **VCS**: git, CI/CD (Gitlab, GitHub, BitBucket)  
-🔹 **Monitoring**: Prometheus, Prometheus Alert Manager, PagerDuty  
-🔹 **Streaming**: Kafka, Kafka Connect  
-🔹 **Programming**: mostly Python, also have some experience with JavaScript, Scala, Go
-🔹 **IAC**: terraform, some experience with AWS CDK, terragrunt, atlantis  
-🔹 **K8S**: objects | resources management, HPA, KEDA, fluxCD, ...  
+I thrive on the opportunity to merge contemporary software solutions and leverage their power. By integrating 
+cutting-edge tools and technologies, I strive to create innovative and efficient software solutions that push 
+the boundaries of what's possible.
 
-🌩️☁️ **Cloud Providers** ☁️🌩️
 
-🔹 **AWS**: S3, Athena, Lake Formation, Glue, Kinesis, Lambda, Redshift, EKS, Fargate, RDS, DynamoDB, EC2 ...  
-🔹 **GCP**: BigQuery, Cloud Storage, Cloud Run, Functions, ...  
+👩‍🏫🖥️ **Passionate about Mentoring Software Developers** 🚀
 
-🔢🌐 Big Data 🌐🔢
-
-🔹 **Hadoop Ecosystem**: HDFS, Spark, Drill, Presto | Trino, Hive, Hive Metastore, ...  
-🔹 **Files**: Parquet, Iceberg, ORC, AVRO, JSON, CSV | TSV  
-🔹 **RDBMS**: PostgresSQL, MSSQL Server  
-🔹 **No SQL Databases**: Elasticsearch, Redis  
-🔹 **SQL**: DDL, DML, DCL  
-
-🗃️ **Data Warehousing** 📊
-
-🔹 Lambda architecture  
-🔹 Data Vault 2.0  
-🔹 Cloud Data Lake  
-🔹 Semantic Layer: dbt-metrics, cube-js  
-🔹 Data flow and quality monitoring  
-🔹 Cost control  
-🔹 Reporting and visualization  
-
-📈 **Project Management** 📋
-
-🔹 Guidance on project management ISO 21500  
-🔹 PM-BOK  
-🔹 SCRUM  
-
-📊 **Analytics** 📈
-
-🔹 EDA, time series analysis, anomaly detection, clustering / segmentation concepts  
-🔹 Business analysis: Marketing, Operations, Finance areas  
-🔹 KPIs modeling  
+I have a deep love about mentoring and guiding in their journey. 
+Sharing knowledge, providing support, and helping others grow is a true passion of mine.
