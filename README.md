@@ -15,6 +15,6 @@ I thrive on the opportunity to merge contemporary software solutions and leverag
 I have a deep love about mentoring and guiding in their journey. Sharing knowledge, providing support, and helping others grow is a true passion of mine.
 
 <h2>My GitHub stats</h2>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=svdimchenko&rank=SSS,SS,S,AAA,AA,A,B,C" alt="svdimchenko"/></a></p>
+<p align="left"> <a href="https://github.com/lucthienphong1120/github-trophies"><img src="https://github-trophies.vercel.app/?username=svdimchenko&rank=SSS,SS,S,AAA,AA,A,B,C" alt="svdimchenko"/></a></p>
 
 <p align="center">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=svdimchenko&show_icons=true&locale=en&rank_icon=github" alt="svdimchenko"/></p>
